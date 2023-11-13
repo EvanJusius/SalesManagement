@@ -1,4 +1,5 @@
 # Summary of projects
+
 # Data used
 1) AventureWorksDW2022 (https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 2) Data Cleaning and manipulation - MySQL
