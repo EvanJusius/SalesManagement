@@ -12,4 +12,5 @@
 5) Use Power BI to make Data Modeling
 6) Creating Dashboarb
 
+Data Modeling using Power Bi
 ![Data Modelling](https://github.com/EvanJusius/SalesManagement/assets/148787421/c5f52afe-e914-4aad-9391-cb8fee38d702)
